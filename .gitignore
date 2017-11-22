@@ -1,0 +1,11 @@
+/App.config
+/bin/
+/.vs/
+/obj/
+/Properties/
+
+*.rar
+*.sln
+*.user
+*.zip
+*.cache
