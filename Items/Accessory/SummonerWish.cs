@@ -10,7 +10,7 @@ namespace TheHeroIeralian.Items.Accessory
 		public override void SetStaticDefaults()
 		{
 			DisplayName.SetDefault("Summoner's Wish");
-			Tooltip.SetDefault("Increases max amount of minions by 3\nIncreases minion damage by 18%\nIncreases minion knockback by 16%");
+			Tooltip.SetDefault("Increases max amount of minions by 3\nIncreases summon damage by 18%\nIncreases minion knockback by 16%");
         	}
 
         	public override void SetDefaults()
